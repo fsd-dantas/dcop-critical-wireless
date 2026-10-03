@@ -1,0 +1,9 @@
+networkx>=3.2
+matplotlib>=3.8
+numpy>=1.26
+pytest>=8.0
+
+# tools/ only (adjacency extraction from geodata)
+geopandas>=1.0
+shapely>=2.0
+requests>=2.31
